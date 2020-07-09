@@ -1,2 +1,1 @@
-# tinDog
-It is a demo tindog website
+TinDog Starting Files
